@@ -93,7 +93,7 @@ routes = [
 level= "Novice" #"Expert"
 
 from langchain.chat_models import ChatOpenAI
-llm = ChatOpenAI(api_key=open_AI_key, model = 'gpt-3.9')
+llm = ChatOpenAI(api_key=open_AI_key)
 
 destination_chains = {}
 for route in routes:
