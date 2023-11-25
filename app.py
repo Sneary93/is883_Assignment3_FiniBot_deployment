@@ -14,7 +14,7 @@ openai.api_key = open_AI_key
 
 ### Here, with some adjustments, copy-paste the code you developed for Question 1 in Assignment 3 
 ##########################################################################
-pip install langchain 
+
 
 csv_path = "/content/drive/MyDrive/Colab Notebooks/IS883/HW3/IS883_Assignment3_FiniBot - Sheet1.csv"
 
